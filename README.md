@@ -1,2 +1,2 @@
 # git-test
-Repo untuk emncoba git remote
+Repo untuk mencoba git remote
